@@ -1,8 +1,8 @@
-Photogrammetric model of a torso of a Hellenistic Youth
+Photogrammetric model of a Boy on a Go Board
 =======================================================
 
 
-This repository contains the files and images to create a 3D rendering of the stelophorous statue of Mentuemhat
+This repository contains the files and images to create a 3D rendering of the Boy on a Go Board porcelain figure, created by Kakiemon kiln in Arita, Japan in the 17th century (BM Catalogue# Franks 1065).
 
 CONTENTS
 ========
@@ -12,7 +12,7 @@ CONTENTS
 AUTHOR
 ======
 
-This was created by Daniel Pett <dpett at britishmuseum dot org> on the 12 and 14th May 2016.
+This was created by Jennifer Wexler <jwexler at britishmuseum dot org> on the 25 and 26th May 2016.
 
 LICENSE
 =======
